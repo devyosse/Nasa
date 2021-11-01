@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+}
+
+#menu ul li {
+
+    display: inline-block;
+    border-right: solid darkgray 1px;
+    color: white;
+    padding-left: 5%;
+}
+
+.button {
+    float: right;
+    margin-top: -4%;
+}
+
+#liste2 {
+    border: solid 1px;
+    height: 50px;
+    width: 1600px;
+    margin-left: 4%;
+    background-color: #4f4d4d;
+}
+
+#nasa2 {
+    height: 640px;
+    width: 640px;
+}
+
+#nasa3 {
+    height: 320px;
+    width: 320px;
+    margin-left: 35%;
+    margin-top: -34%;
+}
+
+#nasa4 {
+    height: 320px;
+    width: 640px;
+    margin-left: 35%;
+    margin-top: 0%;
+}
+
+#nasa5 {
+    float: right;
+    margin-top: -34%;
+    margin-right: 32%;
+    height: 320px;
+    width: 280px;
+    color: white;
+    background-color: #000080;
+}
+
+#nasa7 {
+    margin-left: 25%;
+    margin-top: -18%;
+}
+
+#nasa8{
+    margin-left: 60%;
+    margin-top: -18%;
+}
+
+#nasa10{
+    margin-left: 18%;
+    margin-top: -17%;
+}
+
+#nasa11{
+    margin-left: 35%;
+    margin-top: -17.5%;
+}
+
+#nasa12{
+    margin-left: 52%;
+    margin-top: -17%;
+}
+
+#fin{
+    border: #010198 solid 20px;
+    color: white;
+    text-align: center;
+    background-color: #010198;
+}
